@@ -27,27 +27,27 @@ public class soundCon : MonoBehaviour
                 btnName = Hit.transform.name;
                 switch (btnName)
                 {
-                    case "Boton1":
+                    case "Nota":
                         myAudioSource.clip = aClips[0];
                         myAudioSource.Play();
                         break;
-                    case "Boton2":
+                    case "Nota (1)":
                         myAudioSource.clip = aClips[1];
                         myAudioSource.Play();
                         break;
-                    case "Boton3":
+                    case "Nota (2)":
                         myAudioSource.clip = aClips[2];
                         myAudioSource.Play();
                         break;
-                    case "Boton4":
+                    case "Nota (3)":
                         myAudioSource.clip = aClips[3];
                         myAudioSource.Play();
                         break;
-                    case "Boton5":
+                    case "Nota (4)":
                         myAudioSource.clip = aClips[4];
                         myAudioSource.Play();
                         break;
-                    case "Boton6":
+                    case "Nota (5)":
                         myAudioSource.clip = aClips[5];
                         myAudioSource.Play();
                         break;
