@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/4.Scenes/VuforiaVideo.unity
-    guid: fd1d4bc75212e074bb42b77b3cc092ce
+    path: Assets/4.Scenes/Vuforia_GroundPlane.unity
+    guid: 6441ed776e3125740b0d628d09ac2f1a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1c5682c01ca352c439ee5b9818484d89,
       type: 2}
